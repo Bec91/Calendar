@@ -1,0 +1,12 @@
+*, *::before, *::after {
+    box-sizing: border-box;
+  }
+  
+  body {
+    margin: 0;
+    background: linear-gradient(to right, #EB93CD, #7CE7EB);
+    display: flex;
+    justify-content: center;
+    padding-top: 12rem;
+  }
+  
